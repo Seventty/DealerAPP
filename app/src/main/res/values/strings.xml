@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dealer</string>
+    <string name="Bienvenida">Bienvenido al dealer, selecciona una de las opciones para ver los autos en catalogo.</string>
+    <string name="Sedanes">Catalogo de autos Sedanes.</string>
+    <string name="TodoTerreno">Catalogo de autos TodoTerreno.</string>
+    <string name="Deportivos">Catalogo de autos Deportivos.</string>
+</resources>
